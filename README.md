@@ -22,7 +22,7 @@ For the best experience run the application in a tall, mobile-shaped window. It 
 ## Tests 
 
 Tests can be run with the command `flutter test`. <br />
-Test coverage is at 88.3% - see `coverage/html/index.html`.
+Test coverage is at 88.3% - see https://i.imgur.com/uYfxhSz.png.
 
 ## Challenges and learning moments 
 
