@@ -1,0 +1,28 @@
+name: quiz
+description: A Flutter Quiz app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_riverpod: ^2.2.0
+  go_router: ^6.0.1
+  http: ^0.13.5
+  riverpod: ^2.2.0
+  shared_preferences: ^2.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  nock: ^1.2.2
+
+flutter:
+  uses-material-design: true
