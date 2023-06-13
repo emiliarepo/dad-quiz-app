@@ -8,6 +8,8 @@ The Application allows the user to view questions from different topics, and ans
 
 The statistics view can be accessed from the bar graph icon in the top right corner - if launched in debug mode, the "DEBUG" label might visually cover the button but you can still click it. 
 
+**File Structure:** I didn't realise the project came with a template file structure, so I started my own project from scratch... there's quite a bit of repetition in the different screen files, and I definitely would've written cleaner code had I known about it. I'm writing this as I'm preparing to submit the project, so I'd honestly rather not go back and improve the structure. If it works, it works.
+
 ## Getting Started 
 
 You can run the app with `flutter run` - for example: <br />
